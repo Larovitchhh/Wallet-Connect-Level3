@@ -5,8 +5,8 @@ description = ""
 telemetry = true
 requirements = []
 
-[contracts.wallet-tips]
-path = "contracts/wallet-tips.clar"
+[contracts.wallet-tips-3]
+path = "contracts/wallet-tips-3.clar"
 clarity_version = 2
 
 [repl.analysis]
